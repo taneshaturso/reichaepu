@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xayeazaib.leverington.co.uk/sitemap.xml
